@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 两数之和
+ * q1_两数之和
  * <p>
  * 1. 暴力枚举
  * 2. 哈希求解

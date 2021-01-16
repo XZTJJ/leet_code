@@ -1,17 +1,15 @@
 package com.zhouhc.prime;
 
 /**
- * 计数质数
+ * q204_计数质数
  * 1.暴力求解
  * 2.埃氏筛
  */
 public class PrimeCount {
 
     public static void main(String[] args) {
-        int[] targetNums = new int[]{0,1,10,20,50};
-        for (int target : targetNums)
-            System.out.println(target+"以内存在质数个数为:"+"\t"+
-                    forceCount(target)+"\t"+eratosthenesCOunt(target));
+
+        System.out.println(eratosthenesCOunt(499979));
     }
 
     /**
@@ -55,27 +53,24 @@ public class PrimeCount {
      */
 
     private static int eratosthenesCOunt(int target) {
-        //用于标记数组，用于标记对应数字是否为质数，并且默认所有数都为质数
+        //用于标记数组，用于标记对应数字是否为质数，并且默认所有数都默认为非质数
         boolean[] markType = new boolean[target];
-        for (int i = 0; i < markType.length; i++) {
-            markType[i] = true;
-        }
         //统计结果
         int count = 0;
         //2 ~ n 每个数都要判断
         for (int i = 2; i < target; i++) {
             // 证明这个数为非质数，直接跳过
-            if (!markType[i])
+            if (markType[i])
                 continue;
             //证明该数为质数
             count++;
             //根据 方法上注解1 可以知道，对于比i大的因数，绝对被比小于 i 的因数判断过，因此是不需要重复判断的
             //比如 12 = 2 * 6 ，6就可以省略判断，因为2已经判断过了
-            if (i * i < target) {
+            if ((long)i * i < target) {
                 // 对于质数j而言，2j,3j,4j...绝对不是质数，因为存在因数 j
                 // 从 j^2 开始判断的依据是: j >=2 所以, 2~j 之间的数值，已经被2,3,4...j标记过了，
                 for (int j = i * i; j < target; j += i) {
-                    markType[j] = false;
+                    markType[j] = true;
                 }
             }
         }

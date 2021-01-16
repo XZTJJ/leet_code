@@ -4,16 +4,17 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 字符串中的第一个唯一字符
+ * q387_字符串中的第一个唯一字符
  * 1. 暴力求解
  * 2. 哈希求解
+ * 3. 数组求解(推荐)
  */
 public class FirstNoExistChar {
 
     public static void main(String[] args) {
         String str = "loveleetcode";
-        System.out.println("给定字符串为: " + str + " , 找到第一个不重复字符的下标索引为: \t"
-                + forceSolvtion(str) + "\t" + hashSolvtion(str));
+
+        arraySolvtion(str);
     }
 
     /**
@@ -59,6 +60,28 @@ public class FirstNoExistChar {
         //找出第一个只出现了一次的字母
         for (int i = 0; i < str.length(); i++) {
             if (charMap.get(str.charAt(i)) == 1)
+                return i;
+        }
+
+        return -1;
+    }
+
+    /**
+     *
+     * 1. 利用数组的一次寻找的方式 , 比hash快很多(6到7被)，证明Java的
+     *    自动装包 和 拆包机制没有的慢。
+     *
+     */
+    private static int arraySolvtion(String str) {
+        //哈希表,
+        int[] result = new int[256];
+        //统计字母次数
+        for (int i = 0; i < str.length(); i++) {
+            result[str.charAt(i)]++;
+        }
+        //找出第一个只出现了一次的字母
+        for (int i = 0; i < str.length(); i++) {
+            if (result[str.charAt(i)] == 1)
                 return i;
         }
 
