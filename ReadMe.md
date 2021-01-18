@@ -18,4 +18,6 @@
 
 [q19_删除链表的倒数第N个节点](./src/main/java/com/zhouhc/link/DelRecLinkNode.java)
 
-[q25_K个一组翻转链表](./src/main/java/com/zhouhc/link/LinkReversal.java)
+[q25_K个一组翻转链表](./src/main/java/com/zhouhc/link/LinkManyReversal.java)
+
+[q206_反转链表](./src/main/java/com/zhouhc/link/LinkReversal.java)
