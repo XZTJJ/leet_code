@@ -8,7 +8,7 @@
 
 [q1_两数之和](./src/main/java/com/zhouhc/hash/SumOfTwo.java)
 
-[q387_字符串中的第一个唯一字符字符串中的第一个唯一字符](./src/main/java/com/zhouhc/hash/FirstNoExistChar.java)
+[q387_字符串中的第一个唯一字符](./src/main/java/com/zhouhc/hash/FirstNoExistChar.java)
 
 #### 链表
 
@@ -21,3 +21,7 @@
 [q25_K个一组翻转链表](./src/main/java/com/zhouhc/link/LinkManyReversal.java)
 
 [q206_反转链表](./src/main/java/com/zhouhc/link/LinkReversal.java)
+
+[q61_旋转链表](./src/main/java/com/zhouhc/link/RotateLink.java)
+
+[q138_复制带有随机指针的链表](./src/main/java/com/zhouhc/link/DeepCopyRandomLink.java)
