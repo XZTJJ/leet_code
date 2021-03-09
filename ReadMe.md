@@ -33,3 +33,9 @@
 [q11_盛最多水的容器](./src/main/java/com/zhouhc/slidingWindow/MaxContainer.java)
 
 [q15_三数之和](./src/main/java/com/zhouhc/slidingWindow/ThreeNumSum.java)
+
+[q16_最接近的三数之和](./src/main/java/com/zhouhc/slidingWindow/CloseToThreeNumSum.java)
+
+[q26_删除排序数组中的重复项](./src/main/java/com/zhouhc/slidingWindow/DeleteSortedArrayRepeatEle.java)
+
+[q42_接雨水](./src/main/java/com/zhouhc/slidingWindow/TripRionWater.java)
