@@ -1,4 +1,4 @@
-package com.zhouhc.slidingWindow;
+package com.zhouhc.slidingwindow;
 
 import java.util.Stack;
 

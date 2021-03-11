@@ -28,18 +28,18 @@
 
 #### 双指针遍历/滑动窗口
 
-[q3_无重复字符的最长子串](./src/main/java/com/zhouhc/slidingWindow/UnRepeatMaxSubStr.java)
+[q3_无重复字符的最长子串](src/main/java/com/zhouhc/slidingwindow/UnRepeatMaxSubStr.java)
 
-[q11_盛最多水的容器](./src/main/java/com/zhouhc/slidingWindow/MaxContainer.java)
+[q11_盛最多水的容器](src/main/java/com/zhouhc/slidingwindow/MaxContainer.java)
 
-[q15_三数之和](./src/main/java/com/zhouhc/slidingWindow/ThreeNumSum.java)
+[q15_三数之和](src/main/java/com/zhouhc/slidingwindow/ThreeNumSum.java)
 
-[q16_最接近的三数之和](./src/main/java/com/zhouhc/slidingWindow/CloseToThreeNumSum.java)
+[q16_最接近的三数之和](src/main/java/com/zhouhc/slidingwindow/CloseToThreeNumSum.java)
 
-[q26_删除排序数组中的重复项](./src/main/java/com/zhouhc/slidingWindow/DeleteSortedArrayRepeatEle.java)
+[q26_删除排序数组中的重复项](src/main/java/com/zhouhc/slidingwindow/DeleteSortedArrayRepeatEle.java)
 
-[q42_接雨水](./src/main/java/com/zhouhc/slidingWindow/TripRionWater.java)
+[q42_接雨水](src/main/java/com/zhouhc/slidingwindow/TripRionWater.java)
 
-[q121_买卖股票的最佳时机](./src/main/java/com/zhouhc/slidingWindow/BestTimeSoldStock.java)
+[q121_买卖股票的最佳时机](src/main/java/com/zhouhc/slidingwindow/BestTimeSoldStock.java)
 
-[q209_长度最小的子数组](./src/main/java/com/zhouhc/slidingWindow/TripRionWater.java)
+[q209_长度最小的子数组](src/main/java/com/zhouhc/slidingwindow/TripRionWater.java)

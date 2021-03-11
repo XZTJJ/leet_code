@@ -1,4 +1,4 @@
-package com.zhouhc.slidingWindow;
+package com.zhouhc.slidingwindow;
 
 /**
  * q121_买卖股票的最佳时机

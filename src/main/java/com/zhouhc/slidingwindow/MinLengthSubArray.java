@@ -1,4 +1,4 @@
-package com.zhouhc.slidingWindow;
+package com.zhouhc.slidingwindow;
 
 /**
  *  q209_长度最小的子数组

@@ -1,4 +1,4 @@
-package com.zhouhc.slidingWindow;
+package com.zhouhc.slidingwindow;
 
 /**
  * q26_删除排序数组中的重复项
