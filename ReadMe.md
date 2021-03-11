@@ -43,3 +43,10 @@
 [q121_买卖股票的最佳时机](src/main/java/com/zhouhc/slidingwindow/BestTimeSoldStock.java)
 
 [q209_长度最小的子数组](src/main/java/com/zhouhc/slidingwindow/TripRionWater.java)
+
+
+#### 快慢指针
+
+[q141_环形链表](src/main/java/com/zhouhc/speedpointer/CircleLink.java)
+
+[q202_快乐数](src/main/java/com/zhouhc/speedpointer/HappyNumber.java)
