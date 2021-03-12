@@ -50,3 +50,10 @@
 [q141_环形链表](src/main/java/com/zhouhc/speedpointer/CircleLink.java)
 
 [q202_快乐数](src/main/java/com/zhouhc/speedpointer/HappyNumber.java)
+
+[q876_链表的中间结点](src/main/java/com/zhouhc/speedpointer/MiddleNode.java)
+
+#### 区间合并
+
+[q56_合并区间](src/main/java/com/zhouhc/mergeinterval/IntervalMerge.java)
+
