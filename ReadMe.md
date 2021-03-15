@@ -57,3 +57,12 @@
 
 [q56_合并区间](src/main/java/com/zhouhc/mergeinterval/IntervalMerge.java)
 
+#### 字符串操作
+
+[q6_Z字形变换](src/main/java/com/zhouhc/string/ZConvert.java)
+
+[q14_最长公共前缀](src/main/java/com/zhouhc/string/LongestPrefix.java)
+
+[q763_划分字母区间](src/main/java/com/zhouhc/string/DivideLetterInterval.java)
+
+
