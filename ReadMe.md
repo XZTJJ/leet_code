@@ -65,4 +65,26 @@
 
 [q763_划分字母区间](src/main/java/com/zhouhc/string/DivideLetterInterval.java)
 
+#### 数字操作
+
+[q7_整数反转](src/main/java/com/zhouhc/number/NumberReverse.java)
+
+[q8_字符串转换整数](src/main/java/com/zhouhc/number/StringToNumber.java)
+
+
+#### 贪心算法
+
+[q455_分发饼干](src/main/java/com/zhouhc/greedy/GiveCookies.java)
+
+[q376_摆动序列](src/main/java/com/zhouhc/greedy/WiggleSequence.java)
+
+[q402_移掉K位数字](src/main/java/com/zhouhc/greedy/RemoveKDigits.java)
+
+
+
+
+
+
+
+
 
