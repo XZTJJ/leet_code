@@ -80,6 +80,14 @@
 
 [q402_移掉K位数字](src/main/java/com/zhouhc/greedy/RemoveKDigits.java)
 
+[q55_跳跃游戏](src/main/java/com/zhouhc/greedy/JumpGame.java)
+
+[q45_跳跃游戏 II](src/main/java/com/zhouhc/greedy/JumpGameII.java)
+
+[q134_加油站](src/main/java/com/zhouhc/greedy/GasStation.java)
+
+[q452_用最少数量的箭引爆气球](src/main/java/com/zhouhc/greedy/ArrowBalloons.java)
+
 
 
 
