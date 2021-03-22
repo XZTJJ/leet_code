@@ -88,6 +88,12 @@
 
 [q452_用最少数量的箭引爆气球](src/main/java/com/zhouhc/greedy/ArrowBalloons.java)
 
+[q135_分发糖果](src/main/java/com/zhouhc/greedy/GiveCandy.java)
+
+[q921_使括号有效的最少添加](src/main/java/com/zhouhc/greedy/MinParenthesesAdd.java)
+
+[q1326_灌溉花园的最少水龙头数目](src/main/java/com/zhouhc/greedy/WaterGarden.java)
+
 
 
 
