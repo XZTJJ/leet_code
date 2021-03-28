@@ -95,6 +95,27 @@
 [q1326_灌溉花园的最少水龙头数目](src/main/java/com/zhouhc/greedy/WaterGarden.java)
 
 
+#### 动态规划
+
+[q5_最长回文子串](src/main/java/com/zhouhc/dp/LongestSubString.java)
+
+[q53_最大子序和](src/main/java/com/zhouhc/dp/MaxSubArray.java)
+
+[q62_不同路径](src/main/java/com/zhouhc/dp/UniquePaths.java)
+
+[q64_最小路径和](src/main/java/com/zhouhc/dp/MiniPathSum.java)
+
+[q70_爬楼梯](src/main/java/com/zhouhc/dp/ClimbingStairs.java)
+
+[q118_杨辉三角](src/main/java/com/zhouhc/dp/PascalsTriangle.java)
+
+[q300_最长递增子序列](src/main/java/com/zhouhc/dp/LIncSubsequence.java)
+
+[q1143_最长公共子序列](src/main/java/com/zhouhc/dp/LCSubString.java)
+
+[q1277_统计全为 1 的正方形子矩阵](src/main/java/com/zhouhc/dp/CountSquare.java)
+
+
 
 
 
