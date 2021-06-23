@@ -16,9 +16,19 @@
 
 [q387_字符串中的第一个唯一字符](./src/main/java/com/zhouhc/hash/FirstNoExistChar.java)
 
+[q1002_查找常用字符](./src/main/java/com/zhouhc/hash/FindCommonChar.java)
+
+[q242_有效的字母异位词](./src/main/java/com/zhouhc/hash/VaildCharAnagram.java)
+
+[q349_两个数组的交集](./src/main/java/com/zhouhc/hash/ArrayIntersection.java)
+
+[q454_四数相加 II](./src/main/java/com/zhouhc/hash/FourNumAdd.java)
+
 #### 链表
 
 [q2_两数相加](./src/main/java/com/zhouhc/link/Add2Nums.java)
+
+[q02.07_链表相交](./src/main/java/com/zhouhc/link/LinkIntersection.java)
 
 [q707_设计链表](./src/main/java/com/zhouhc/link/MyLinkedList.java)
 
@@ -46,6 +56,8 @@
 
 [q15_三数之和](./src/main/java/com/zhouhc/slidingwindow/ThreeNumSum.java)
 
+[q18_四数之和](./src/main/java/com/zhouhc/slidingwindow/FourNumSum.java)
+
 [q16_最接近的三数之和](./src/main/java/com/zhouhc/slidingwindow/CloseToThreeNumSum.java)
 
 [q26_删除排序数组中的重复项](./src/main/java/com/zhouhc/slidingwindow/DeleteSortedArrayRepeatEle.java)
@@ -60,6 +72,8 @@
 #### 快慢指针
 
 [q141_环形链表](./src/main/java/com/zhouhc/speedpointer/CircleLink.java)
+
+[q142_环形链表II](./src/main/java/com/zhouhc/speedpointer/CircleLinkII.java)
 
 [q202_快乐数](./src/main/java/com/zhouhc/speedpointer/HappyNumber.java)
 
