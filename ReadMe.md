@@ -91,6 +91,16 @@
 
 [q763_划分字母区间](./src/main/java/com/zhouhc/string/DivideLetterInterval.java)
 
+[q344_反转字符串](./src/main/java/com/zhouhc/string/ReverseString.java)
+
+[q541_反转字符串II](./src/main/java/com/zhouhc/string/ReverseStringII.java)
+
+[q151_翻转字符串里的单词](./src/main/java/com/zhouhc/string/ReverseWords.java)
+
+[q28_实现 strStr()](./src/main/java/com/zhouhc/string/startStr.java)
+
+[q459_重复的子字符串](./src/main/java/com/zhouhc/string/RepeatSubString.java)
+
 #### 数字操作
 
 [q7_整数反转](./src/main/java/com/zhouhc/number/NumberReverse.java)
