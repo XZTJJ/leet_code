@@ -147,6 +147,12 @@
 
 [q62_不同路径](./src/main/java/com/zhouhc/dp/UniquePaths.java)
 
+[q63_不同路径II](./src/main/java/com/zhouhc/dp/UniquePathsII.java)
+
+[q343_整数拆分](./src/main/java/com/zhouhc/dp/IntegerBreak.java)
+
+[q96_不同的二叉搜索树](./src/main/java/com/zhouhc/dp/IntegerBreak.java)
+
 [q64_最小路径和](./src/main/java/com/zhouhc/dp/MiniPathSum.java)
 
 [q300_最长递增子序列](./src/main/java/com/zhouhc/dp/LIncSubsequence.java)
