@@ -1,5 +1,8 @@
 package com.zhouhc.dp;
 
+/**
+ * q343_整数拆分
+ */
 public class IntegerBreak {
     public static void main(String[] args) {
         System.out.println(integerBreak(35));

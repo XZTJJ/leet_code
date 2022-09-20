@@ -151,7 +151,9 @@
 
 [q343_整数拆分](./src/main/java/com/zhouhc/dp/IntegerBreak.java)
 
-[q96_不同的二叉搜索树](./src/main/java/com/zhouhc/dp/IntegerBreak.java)
+[q96_不同的二叉搜索树](./src/main/java/com/zhouhc/dp/numTrees.java)
+
+[q416_分割等和子集](./src/main/java/com/zhouhc/dp/CanPartition.java)
 
 [q64_最小路径和](./src/main/java/com/zhouhc/dp/MiniPathSum.java)
 
