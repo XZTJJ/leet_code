@@ -155,6 +155,8 @@
 
 [q416_分割等和子集](./src/main/java/com/zhouhc/dp/CanPartition.java)
 
+[q1049_最后一块石头的重量II](./src/main/java/com/zhouhc/dp/LastStoneWeightII.java)
+
 [q64_最小路径和](./src/main/java/com/zhouhc/dp/MiniPathSum.java)
 
 [q300_最长递增子序列](./src/main/java/com/zhouhc/dp/LIncSubsequence.java)
